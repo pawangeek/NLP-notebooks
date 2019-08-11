@@ -4,6 +4,7 @@ My learning regarding natural language processing
 
 ## Requirements
 * `nltk`
+* `pandas`
 
 ## Chapters
 
